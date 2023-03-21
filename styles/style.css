@@ -127,10 +127,11 @@ body {
 
 
 .apresentacao__imagem {
+    width: 50%;
     border-radius: 80px;
 }
 
-.apresentacao__imagem2 {
+/*.apresentacao__imagem2 {
     border-radius: 80px;
     position: absolute;
     top: 0;
@@ -141,7 +142,7 @@ body {
 
 .apresentacao__imagem2:hover {
     opacity: 1;
-}
+}*/
 
 .rodape {
     padding: 24px;
